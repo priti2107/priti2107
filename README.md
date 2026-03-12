@@ -1,91 +1,87 @@
-<h1 align="center">Priti Chavan</h1>
+<h1 align="center">Hi, I'm Priti Chavan</h1>
 
 <p align="center">
-  <b>Software Developer</b> • <b>AI/ML Enthusiast</b> • <b>Cybersecurity Learner</b>
+Software Developer • AI/ML Enthusiast • Cybersecurity Learner
 </p>
 
 <p align="center">
-  Passionate about building technology solutions and continuously learning new skills in software development and emerging technologies.
+Software developer with a strong interest in Artificial Intelligence and Machine Learning, focused on building intelligent and scalable applications. Experienced in working with Python, Java, and modern web technologies, and passionate about applying AI-driven solutions to real-world problems through continuous learning and hands-on development.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=priti2107&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=priti2107&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-## About Me
+## Skills
 
-* Engineering student with a **Diploma in Information Technology**
-* Experience in **Web Development, Android Application Development, and Database Systems**
-* Hands-on work with **Android Studio**, **Web Technologies**, and **Database Management**
-* Familiar with **Firebase, MongoDB, and MySQL**
-* Interested in **Artificial Intelligence, Machine Learning, Cloud Computing, and Cybersecurity**
-* Focused on continuous learning and improving problem-solving skills through development and experimentation
+* Programming: C, C++, Java, Python, JavaScript
+* Web Development: HTML, CSS, PHP
+* Mobile Development: Android Studio
+* Databases: Firebase, MongoDB, MySQL
+* Tools: Git, GitHub, VS Code, Jupyter Notebook
 
 ---
 
-## Technical Skills
+## Tech Stack
 
-### Programming Languages
+<p align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=flat\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat\&logo=java\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,php,mysql,mongodb,firebase,git,github,vscode,androidstudio"/>
 
-### Web Technologies
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat\&logo=css3\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat\&logo=php\&logoColor=white)
-
-### Tools & Development Environment
-
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat\&logo=android\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat\&logo=jupyter\&logoColor=white)
-
-### Databases
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat\&logo=firebase\&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+</p>
 
 ---
 
 ## Current Interests
 
-* Artificial Intelligence & Machine Learning
-* Cloud Computing & DevOps
-* Cybersecurity & Secure Systems
-* Data Science & Analytics
+* Artificial Intelligence
+* Machine Learning
+* Data Analysis
+* Cybersecurity
+* Cloud Technologies
 
 ---
 
-## GitHub Statistics
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priti2107&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=priti2107&show_icons=true&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priti2107&layout=compact&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priti2107&layout=compact&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=priti2107&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com?user=priti2107&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## Contribution Activity
+## Activity Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/priti2107/priti2107/output/github-contribution-grid-snake.svg" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priti2107&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/priti2107/priti2107/output/github-contribution-grid-snake.svg"/>
+
 </p>
 
 ---
@@ -98,5 +94,5 @@
 ---
 
 <p align="center">
-  <i>Committed to continuous learning and building impactful technology.</i>
+Focused on building impactful technology through continuous learning and development.
 </p>
